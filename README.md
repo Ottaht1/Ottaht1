@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tessy!</h1>
+<h1 align="center">Hi 👋, I'm Theresa!</h1>
 <h3 align="center">A frontend developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **JavaScript and React**
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ottaht1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ottaht1" height="30" width="40" /></a>
-<a href="https://twitter.com/_ottaht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ottaht" height="30" width="40" /></a>
+<a href="https://twitter.com/theresaottah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theresaottah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/theresa-ottah-84401a156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theresa-ottah" height="30" width="40" /></a>
 </p>
 
