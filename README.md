@@ -33,7 +33,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    [<img src="https://www.google.com/imgres?q=bootstrap%20image&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQEXPmCzTtwiXg%2Farticle-cover_image-shrink_720_1280%2Farticle-cover_image-shrink_720_1280%2F0%2F1705328675501%3Fe%3D2147483647%26v%3Dbeta%26t%3DkuKEYWgwf5lvd_wr2QvaLjwh7C2-am_Xb5jHlTwgMGE&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcompare-bootstrap-4-5-which-one-good-your-project-cuong-le-zjz6c&docid=Cpk-Vl7wXy80EM&tbnid=d4pxiMmLfjqwsM&vet=12ahUKEwjx48737OmJAxWiQEEAHRDRBIsQM3oECBcQAA..i&w=1280&h=640&hcb=2&ved=2ahUKEwjx48737OmJAxWiQEEAHRDRBIsQM3oECBcQAA"
   </a>
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cfKH1z3d96HqDUKR6KorPXJJ4SoFJmU_oA&usqp=CAU" alt="typescript" width="40" height="40"/> 
