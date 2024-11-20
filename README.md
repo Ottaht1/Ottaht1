@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Theresa!</h1>
 <h3 align="center">A frontend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **React and NextJs**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
