@@ -38,7 +38,7 @@
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cfKH1z3d96HqDUKR6KorPXJJ4SoFJmU_oA&usqp=CAU" alt="typescript" width="40" height="40"/> 
   </a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" />
   </a>
 
